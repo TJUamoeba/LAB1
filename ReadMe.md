@@ -21,7 +21,7 @@
 # 四、工作时间  
 1周
 # 五、知识点总结图（Concept MAP）
-![知识点图]()
+![知识点图](https://github.com/TJUamoeba/LAB1/blob/master/QRcreate/Pictures/%E7%9F%A5%E8%AF%86%E7%82%B9.PNG)
 # 六、结论     
 1. 学习了二维码的相关知识，了解了二维码纠错等级等概念的定义；
 3. 学习了C#关于TEXT文件的读写操作；
